@@ -28,6 +28,6 @@
 
  Burning ship
  
-# pictures
+# post scriptum
  
  You can choose more colours than black and white and can change fractals parameters, i just choose those examples for their sobriety.
