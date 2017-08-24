@@ -10,7 +10,7 @@
  you can change their parameters with the position of your mouse, and their color with a menu (press enter).
  you can also zoom in to infinity.
  
- # pictures
+# pictures
  
 ![fractol_3](https://user-images.githubusercontent.com/21102863/29678407-c348cd6a-88fe-11e7-8536-c20f51494cb8.png)
   
@@ -28,6 +28,6 @@
 
  Burning ship
  
-#post scriptum
+# pictures
  
  You can choose more colours than black and white and can change fractals parameters, i just choose those examples for their sobriety.
